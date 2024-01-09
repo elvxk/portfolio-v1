@@ -5,7 +5,7 @@
 
 <p align="center">
   <samp
-    ><br />「 My portfolio website using <b>TailwindCSS</b> 」
+    ><br />「 My first portfolio website using <b>TailwindCSS</b> 」
     <br />
     <br />
   </samp>
